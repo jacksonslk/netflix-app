@@ -1,0 +1,8 @@
+.Header-Wrapper{
+    background: url('../../../../Images/Home/NetflixImage.png');
+    /* margin: auto;
+    background-size: cover;
+    background-position: top left;
+    background-repeat: no-repeat; */
+    padding: 30px 50px;
+}
