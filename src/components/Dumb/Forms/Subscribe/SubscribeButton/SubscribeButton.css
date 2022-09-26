@@ -1,0 +1,25 @@
+.subscribe-button{
+    background-color: #e50914;
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    height: 50px;
+    width: fit-content;
+    /* text-transform: uppercase; */
+    padding: 10px 12px;
+    align-items: center;
+    font-size: 26px;
+    font-weight: 700;
+    border-radius: 1px;
+}
+.subscribe-button a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    padding-top: 10px;
+}
+.subscribe-button-image{
+    width: 24px;
+    margin: auto;
+    /* the filter invert CSS trick just inverts the color to its folded wormhole opposite(if the color is black, it becomes white) filter: invert(1); */
+}
