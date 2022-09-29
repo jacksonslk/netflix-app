@@ -8,7 +8,6 @@ import HeaderWrapper from "../Dumb/Header/HeaderWrapper/HeaderWrapper";
 import Logo from "../Dumb/Header/Logo/Logo";
 import NavBar from "../Dumb/Header/NavBar/NavBar";
 import SignInButton from "../Dumb/Header/SignInButton/SignInButton";
-import Separator from "../Dumb/separator/Separator"
 
 function HeaderComponent(){
 
@@ -30,7 +29,6 @@ return(
             <SubscribeButton> Get Started </SubscribeButton>
         </SubscribeWrapper>
     </HeaderWrapper>
-    <Separator />
     </>
     )
 

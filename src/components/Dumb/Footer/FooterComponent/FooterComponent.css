@@ -1,0 +1,33 @@
+.footer-section{
+    background-color: black;
+    padding-top: 10px;
+}
+.footer-wrapper{
+    max-width: 1000px;
+    margin: auto;
+    padding: 50px 56px;
+}
+.footer-wrapper-grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    max-width: 1000px;
+    margin: auto;
+    padding-top: 20px;
+}
+.footer-column{
+    display: flex;
+    flex-direction: column;
+}
+.footer-link{
+    color: #757575;
+    font-size: 13px;
+    margin-bottom: 20px ;
+    /* text-align: center; */
+    text-decoration: none;
+}
+.footer-link:hover{
+    text-decoration: underline;
+}
+.footer-text{
+    color: #757575;
+}

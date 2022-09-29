@@ -4,7 +4,7 @@ import "./JumboImage.css"
 function JumboImage({...restProps}){
 
     return(
-        <img className="jumbo-image" {...restProps} />
+        <img className="jumbo-image" alt="" {...restProps} />
     )
 
 }

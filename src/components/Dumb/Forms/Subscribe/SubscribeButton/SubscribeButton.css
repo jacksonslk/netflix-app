@@ -16,10 +16,9 @@
     text-decoration: none;
     color: white;
     cursor: pointer;
-    padding-top: 10px;
 }
 .subscribe-button-image{
     width: 24px;
-    margin: auto;
+    margin-top: 10px;
     /* the filter invert CSS trick just inverts the color to its folded wormhole opposite(if the color is black, it becomes white) filter: invert(1); */
 }
